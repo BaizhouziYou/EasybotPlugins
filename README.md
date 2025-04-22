@@ -1,0 +1,2 @@
+# EasybotPlugins
+EasybotPlugins
